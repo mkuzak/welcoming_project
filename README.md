@@ -6,7 +6,7 @@ This is some information here.
 
 ### Contribution
 
-This is how to contribute. Use of **PR** is strongly recommended! :)
+This is how to contribute. Use of _PR_ is strongly recommended! :)
 
 
 ### Tech Information
